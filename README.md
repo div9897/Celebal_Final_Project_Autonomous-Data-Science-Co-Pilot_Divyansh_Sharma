@@ -4,7 +4,7 @@
 
 **🔗 Live app:** https://celebalfinalprojectautonomous-data-science-co-pilotdivyanshsha.streamlit.app/
 
-> Built as a Summer Internship 2025 final project (Agentic AI / Data Engineering / Full-Stack Python).
+> Built as a Summer Internship 2025 final project .
 
 ---
 
